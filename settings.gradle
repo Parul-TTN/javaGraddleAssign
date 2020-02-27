@@ -1,0 +1,6 @@
+rootProject.name = 'javaGraddleAssign'
+include 'show-date'
+include 'show-date'
+include 'buildSrc'
+include 'test'
+
